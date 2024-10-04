@@ -1,0 +1,7 @@
+quart~=0.19.6
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+notion-client
+python-dotenv~=1.0.1
